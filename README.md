@@ -1,2 +1,3 @@
 # hello-world
-hello world and Github
+hello world and Github.
+i made some changes.
